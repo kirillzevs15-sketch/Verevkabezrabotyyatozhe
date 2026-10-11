@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Verevka" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#2f9e63</item>
+        <item name="android:navigationBarColor">#f4fbf6</item>
+        <item name="android:windowBackground">#f4fbf6</item>
+    </style>
+</resources>
